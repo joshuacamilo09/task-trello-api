@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: trello_api
+
+  profiles:
+    active:
+
+server:
+  port:
+
+logging:
+  level:
+    root:
+    com.trello.trello_api:
